@@ -1,7 +1,7 @@
 
 
 
-我创建这个 [repository](https://github.com/aisuhua/restful-api-design-references)，是因为我希望收集一些比较好的有关于 RESTful API 设计的文章、书籍、网站等等。这里有很多在我进行接口的开发工作中经常查阅和参考的一些文献，它们大多来自于网络。
+我创建这个 [repository](https://github.com/aisuhua/restful-api-design-references)，是因为我希望收集一些比较好的有关于 RESTful API 设计的文章、书籍、网站等等。
 
 如果您希望添加更多的参考文献，可以在 [issues](https://github.com/aisuhua/restful-api-design-references/issues) 中告诉我，谢谢。
 
