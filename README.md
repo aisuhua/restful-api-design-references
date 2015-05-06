@@ -5,9 +5,9 @@
 
 如果您希望添加更多的参考文献，可以在 [issues](https://github.com/aisuhua/restful-api-design-references/issues) 中告诉我，谢谢。
 
-### 参考文献 ###
+### References ###
 
-#### 文章 ####
+#### Articles ####
 
 1. RESTful 最佳实践
 	- [http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) （英文原文）
@@ -26,7 +26,7 @@
 8. 如何查看我的订单-REST的流程API设计案例 [http://www.infoq.com/cn/articles/rh-view-my-order-rest-api](http://www.infoq.com/cn/articles/rh-view-my-order-rest-api)
 9. Web API Design - Crafting Interfaces that Developers Love [https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design) (需要翻墙)
 
-#### 书籍 ####
+#### Books ####
 
 1. RESTful Web Services中文版 [http://book.douban.com/subject/3094230/ ](http://book.douban.com/subject/3094230/ )
 2. RESTful Web Services Cookbook中文版 [http://book.douban.com/subject/6837645/](http://book.douban.com/subject/6837645/) 
@@ -34,7 +34,7 @@
 4. REST实战 [http://book.douban.com/subject/6854551/](http://book.douban.com/subject/6854551/)
 
 
-#### 网站 ####
+#### Websites ####
 
 1. Github API v3 [https://developer.github.com/v3/ ](https://developer.github.com/v3/ )
 2. Mailgun Documentation [https://documentation.mailgun.com/ ](https://documentation.mailgun.com/ )
@@ -44,19 +44,19 @@
 6. API Craft Google Group [https://groups.google.com/forum/?fromgroups#!forum/api-craft](https://groups.google.com/forum/?fromgroups#!forum/api-craft) (学习 REST 非常好的 BBS, 需要翻墙)
 
 
-### 工具 ###
+### Tools ###
 
-#### 调试 ####
+#### Debug ####
 
 1. DHC (aka Dev HTTP Client)  好用的 Chrome 浏览器接口调试插件 [https://www.sprintapi.com/dhcs.html](https://www.sprintapi.com/dhcs.html)
 2. Fiddler2 另一个强大的接口调试工具 [http://www.telerik.com/fiddler](http://www.telerik.com/fiddler)
 
-#### 文档制作 ####
+#### Documents ####
 
 1. MarkdownPad2 API 文档编写 [http://markdownpad.com/](http://markdownpad.com/)
 1. i5ting_ztree_toc API 文档生成 [https://github.com/i5ting/i5ting_ztree_toc](https://github.com/i5ting/i5ting_ztree_toc)
 
-#### 代码高亮 ####
+#### Highlight ####
 
 1. highlight.js [https://highlightjs.org/](https://highlightjs.org/)
 
