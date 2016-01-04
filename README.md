@@ -22,6 +22,7 @@
 3. Some REST best practices [https://bourgeois.me/rest/](https://bourgeois.me/rest/)
 4. 理解RESTful架构（阮一峰） [http://www.ruanyifeng.com/blog/2011/09/restful.html](http://www.ruanyifeng.com/blog/2011/09/restful.html)
 5. RESTful API 设计指南（阮一峰） [http://www.ruanyifeng.com/blog/2014/05/restful_api.html](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
+5. Restful API 的设计规范 [http://novoland.github.io/%E8%AE%BE%E8%AE%A1/2015/08/17/Restful%20API%20%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.html](http://novoland.github.io/%E8%AE%BE%E8%AE%A1/2015/08/17/Restful%20API%20%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.html)
 6. 最佳实践：更好的设计你的 REST API [http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi/](http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi/)
 8. 如何查看我的订单-REST的流程API设计案例 [http://www.infoq.com/cn/articles/rh-view-my-order-rest-api](http://www.infoq.com/cn/articles/rh-view-my-order-rest-api)
 9. Web API Design - Crafting Interfaces that Developers Love [https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design](https://blog.apigee.com/detail/announcement_new_ebook_on_web_api_design) (需要翻墙)
