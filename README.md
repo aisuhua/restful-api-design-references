@@ -1,6 +1,6 @@
 之所以创建这个 [repository](https://github.com/aisuhua/restful-api-design-references)，是因为我希望收集一些比较好的有关于 RESTful API 设计的参考文献。偶尔回顾，偶尔改进，大家一起来吧~ 
 
-如果你有更好的私藏文章，不凡分享出来，独乐乐不如众乐乐，哈哈~~
+如果你有更好的私藏文章，不凡分享出来，独乐乐不如众乐乐，**(⊙o⊙)**
 
 #### RESETful 介绍及设计思路 ####
 
