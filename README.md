@@ -2,7 +2,7 @@
 
 如果你有更好的私藏文章，不凡分享出来，独乐乐不如众乐乐，**(⊙o⊙)**
 
-#### RESETful 介绍及设计思路 ####
+#### RESTful 介绍及设计思路 ####
 
  1. [Principles of good RESTful API Design][1]（译：[好 RESTful API 的设计原则][2] ）简单易懂，条理清晰，推荐
  2. [Best Practices for Designing a Pragmatic RESTful API][3]（译：[RESTful 最佳实践][4] [译文2][5]）有实际的案例 [Enchant][6]
