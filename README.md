@@ -46,7 +46,7 @@
 
 #### 调试工具 ####
 
- 1. [DHC (aka Dev HTTP Client)][35] Chrome 插件，简单易用，可分类管理，界面友好。也很多人推荐 [Postman][35]
+ 1. [DHC (aka Dev HTTP Client)][35] Chrome 插件，简单易用，可分类管理，界面友好。也很多人推荐 [Postman][36]
  2. [Fiddler2][37] 抓包，捕捉每一次 REST 请求和响应的详细内容
 
 #### 文档制作 ####
