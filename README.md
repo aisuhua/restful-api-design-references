@@ -17,57 +17,57 @@
  11. [Thoughts on RESTful API Design][16]
  12. [REST API Tutorial][17] 全方位介绍 REST
  13. [HTTP 接口设计指北][18]
+ 14. [Web API Design][19] 接口就是开发人员提供的“界面”，用户体验在接口设计上同样重要，在线查看 [2012 版][20]、[2013 版][21]
 
 #### 知识碎片 ####
 
- 1. [理解 HTTP 幂等性][19] 讲得很清楚，推荐
- 2. [浅析远程过程调用 RPC][20] 告诉你什么是 RPC
- 3. [httpstatuses][21] 一眼看完所有常用的 HTTP 状态码，还可以看详细含义
- 4. [json-api][22] 对 API 应该如何利用好 JSON 的一些建议
- 5. [介绍 JSON][23] 无论如何都应该读一遍
- 6. [decision-graph.svg][24] 一张大图展示整个 REST API 的验证过程，及各种状态码出现的时机
+ 1. [理解 HTTP 幂等性][23] 讲得很清楚，推荐
+ 2. [浅析远程过程调用 RPC][24] 告诉你什么是 RPC
+ 3. [httpstatuses][25] 一眼看完所有常用的 HTTP 状态码，还可以看详细含义
+ 4. [json-api][26] 对 API 应该如何利用好 JSON 的一些建议
+ 5. [介绍 JSON][27] 无论如何都应该读一遍
+ 6. [decision-graph.svg][28] 一张大图展示整个 REST API 的验证过程，及各种状态码出现的时机
 
 #### 书籍 ####
 
- 1. [RESTful Web APIs][25] 较新的一本书，对 REST 做了很多系统性的总结，尤其对“超媒体”作了详细的介绍
- 2. [REST 实战][26] 基于 Jersey 构建 RESTful 服务，有实际的案例 [RestDemo][27]（我注：读者需要懂一些 Java ）
- 3. [Jersey 2.x 用户指南][28] 该书是 Java REST 的规范实现之一 Jersey 用户手册，中文翻译（我注：读者需要懂一些 Java ）
- 4. [Rest CookBook][29] 基础介绍构建RESTful API
+ 1. [RESTful Web APIs][29] 较新的一本书，对 REST 做了很多系统性的总结，尤其对“超媒体”作了详细的介绍
+ 2. [Jersey-2.x-User-Guide][30]（译：Jersey 2.x 用户指南）译者也提供了入门简易教程 [REST 实战][31]以及综合实例 [RestDemo][32]*（注：读者需要 Java 基础）*
+ 3. [REST CookBook][33] 基础介绍构建 RESTful API
 
 #### 例子 ####
 
- 1. [Github API v3][30] 被很多人参考和引用，比如对分页的处理方法、接口版本的设计等等
- 2. [Mailgun Documentation][31] 邮件服务 REST API 
- 3. [Enchant REST API][32]
- 4. [Coinbase][33] API 设计的挺好的，包括官网提供的接口客户端，都是具有参考意义的
- 5. [OpenNMS Wiki ReST API][34]
+ 1. [Github API v3][34] 被很多人参考和引用，比如对分页的处理方法、接口版本的设计等等
+ 2. [Mailgun Documentation][35] 邮件服务 REST API 
+ 3. [Enchant REST API][36]
+ 4. [Coinbase][37] API 设计的挺好的，包括官网提供的接口客户端，都是具有参考意义的
+ 5. [OpenNMS Wiki ReST API][38]
 
 关于例子，实在是太多了，在有时间的时候，多观察别人的设计，有利于写出好的 API。
 
 #### 调试工具 ####
 
- 1. [DHC (aka Dev HTTP Client)][35] Chrome 插件，简单易用，可分类管理，界面友好。也很多人推荐 [Postman][36]
- 2. [Fiddler2][37] 抓包，捕捉每一次 REST 请求和响应的详细内容
+ 1. [DHC (aka Dev HTTP Client)][39] Chrome 插件，简单易用，可分类管理，界面友好。也很多人推荐 [Postman][40]
+ 2. [Fiddler2][41] 抓包，捕捉每一次 REST 请求和响应的详细内容
 
 #### 文档制作 ####
 
- 1. [slate][38] 创建的 API 文档很好看，也很实用，三列式，目录、调用说明和代码示例同屏滚动显示。
- 2. [i5ting_ztree_toc API][39] 把 Markdown 文档生成简单的 HTML API
+ 1. [slate][42] 创建的 API 文档很好看，也很实用，三列式，目录、调用说明和代码示例同屏滚动显示。
+ 2. [i5ting_ztree_toc API][43] 把 Markdown 文档生成简单的 HTML API
 
 #### 代码高亮 ####
 
-1. [highlight.js][40] 无需指定代码是什么语言，直接按 TAB 键搞掂，它会自动检测高亮
-2. [PrismJS][41] 高亮效果挺好看的
+1. [highlight.js][44] 无需指定代码是什么语言，直接按 TAB 键搞掂，它会自动检测高亮
+2. [PrismJS][45] 高亮效果挺好看的
 
 这方面的工具很多，可以自己在网上找找，找一款适合自己的就可以，毕竟只是工具，能达到目的就好。
 
 #### 社区 ####
 
- 1. [API Craft Google Group][42] 有梯子才行
- 2. [RESTful - 知乎][43] 我也有作答~~
+ 1. [API Craft Google Group][46] 有梯子才行
+ 2. [RESTful - 知乎][47] 我也有作答~~
 
 #### 其他 ####
- 1. [MarkdownPad2][44] Window 下使用 Markdown 语法编写文档。等习惯了它的语法，可以直接使用任何一款文本编辑器直接写了
+ 1. [MarkdownPad2][48] Window 下使用 Markdown 语法编写文档。等习惯了它的语法，可以直接使用任何一款文本编辑器直接写了
 
 
   [1]: http://codeplanet.io/principles-good-restful-api-design/
@@ -88,29 +88,33 @@
   [16]: https://restful-api-design.readthedocs.org/en/latest/
   [17]: http://www.restapitutorial.com/
   [18]: https://github.com/bolasblack/http-api-guide
-  [19]: http://www.cnblogs.com/weidagang2046/archive/2011/06/04/2063696.html
-  [20]: http://www.cppblog.com/jb8164/archive/2008/08/15/58949.html
-  [21]: https://httpstatuses.com/
-  [22]: http://jsonapi.org/
-  [23]: http://www.json.org/json-zh.html
-  [24]: http://clojure-liberator.github.io/liberator/doc/decisions.html
-  [25]: http://www.amazon.cn/RESTful-Web-APIs%E4%B8%AD%E6%96%87%E7%89%88-%E4%BC%A6%E7%BA%B3%E5%BE%B7%C2%B7%E7%90%86%E6%9F%A5%E5%BE%B7%E6%A3%AE/dp/B00KWGEI64/
-  [26]: https://github.com/waylau/rest-in-action
-  [27]: https://github.com/waylau/RestDemo
-  [28]: https://github.com/waylau/Jersey-2.x-User-Guide
-  [29]: http://restcookbook.com/
-  [30]: https://developer.github.com/v3/
-  [31]: https://documentation.mailgun.com/
-  [32]: http://dev.enchant.com/api/v1
-  [33]: https://developers.coinbase.com/api/v2
-  [34]: http://www.opennms.org/wiki/
-  [35]: https://www.sprintapi.com/dhcs.html
-  [36]: https://www.getpostman.com/
-  [37]: http://www.telerik.com/fiddler
-  [38]: https://github.com/tripit/slate
-  [39]: https://github.com/i5ting/i5ting_ztree_toc
-  [40]: https://highlightjs.org/
-  [41]: https://github.com/PrismJS/prism
-  [42]: https://groups.google.com/forum/?fromgroups#!forum/api-craft
-  [43]: http://www.zhihu.com/topic/19579308/top-answers
-  [44]: http://markdownpad.com/
+  [19]: https://pages.apigee.com/web-api-design-website-h-ebook-registration.html
+  [20]: https://pages.apigee.com/rs/apigee/images/api-design-ebook-2012-03.pdf
+  [21]: https://pages.apigee.com/rs/351-WXY-166/images/ebook-2013-03-wad.pdf
+  [22]: http://apigee.com/
+  [23]: http://www.cnblogs.com/weidagang2046/archive/2011/06/04/2063696.html
+  [24]: http://www.cppblog.com/jb8164/archive/2008/08/15/58949.html
+  [25]: https://httpstatuses.com/
+  [26]: http://jsonapi.org/
+  [27]: http://www.json.org/json-zh.html
+  [28]: http://clojure-liberator.github.io/liberator/doc/decisions.html
+  [29]: http://www.amazon.cn/RESTful-Web-APIs%E4%B8%AD%E6%96%87%E7%89%88-%E4%BC%A6%E7%BA%B3%E5%BE%B7%C2%B7%E7%90%86%E6%9F%A5%E5%BE%B7%E6%A3%AE/dp/B00KWGEI64/
+  [30]: https://jersey.java.net/documentation/latest/user-guide.html
+  [31]: https://waylau.gitbooks.io/rest-in-action/content/
+  [32]: https://github.com/waylau/RestDemo
+  [33]: http://restcookbook.com/
+  [34]: https://developer.github.com/v3/
+  [35]: https://documentation.mailgun.com/
+  [36]: http://dev.enchant.com/api/v1
+  [37]: https://developers.coinbase.com/api/v2
+  [38]: http://www.opennms.org/wiki/
+  [39]: https://www.sprintapi.com/dhcs.html
+  [40]: https://www.getpostman.com/
+  [41]: http://www.telerik.com/fiddler
+  [42]: https://github.com/tripit/slate
+  [43]: https://github.com/i5ting/i5ting_ztree_toc
+  [44]: https://highlightjs.org/
+  [45]: https://github.com/PrismJS/prism
+  [46]: https://groups.google.com/forum/?fromgroups#!forum/api-craft
+  [47]: http://www.zhihu.com/topic/19579308/top-answers
+  [48]: http://markdownpad.com/
