@@ -43,6 +43,7 @@
  3. [Enchant REST API][36]
  4. [Coinbase][37] API 设计的挺好的，包括官网提供的接口客户端，都是具有参考意义的
  5. [OpenNMS Wiki ReST API][38]
+ 6. [REST API 使用详解][51] Lean Cloud 中讲解 REST API 的使用，还集成 [Swagger UI](https://swagger.io/swagger-ui/) 在线调试工具，[点击查看](https://leancloud.cn/dashboard/apionline/index.html)。
 
 关于例子，实在是太多了，在有时间的时候，多观察别人的设计，有利于写出好的 API。
 
@@ -122,3 +123,4 @@
   [48]: http://markdownpad.com/
   [49]: http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269
   [50]: https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
+  [51]: https://leancloud.cn/docs/rest_api.html
