@@ -19,6 +19,7 @@
  13. [HTTP 接口设计指北][18]
  14. [Web API Design][19] 接口就是开发人员提供的“界面”，用户体验在接口设计上同样重要，在线查看 [2012 版][20]、[2013 版][21]
  15. [架构风格与基于网络应用软件的架构设计][49] 原汁原味的博士论文，由李锟翻译，有经验的同学可以挑战一下
+ 16. [Microsoft REST API Guidelines][50] 微软官方的 REST API 设计指南，值得参考
 
 #### 知识碎片 ####
 
@@ -120,3 +121,4 @@
   [47]: http://www.zhihu.com/topic/19579308/top-answers
   [48]: http://markdownpad.com/
   [49]: http://yuedu.baidu.com/ebook/780324fbf121dd36a32d8269
+  [50]: https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
