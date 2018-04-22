@@ -85,7 +85,7 @@
   [10]: http://www.ruanyifeng.com/blog/2011/09/restful.html
   [11]: http://www.ruanyifeng.com/blog/2014/05/restful_api.html
   [12]: http://novoland.github.io/%E8%AE%BE%E8%AE%A1/2015/08/17/Restful%20API%20%E7%9A%84%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83.html
-  [13]: http://zhuanlan.zhihu.com/prattle/20034107
+  [13]: https://zhuanlan.zhihu.com/p/20034107
   [14]: https://www.ibm.com/developerworks/cn/webservices/0907_rest_soap/
   [15]: http://www.ibm.com/developerworks/cn/web/1103_chenyan_restapi/
   [16]: https://restful-api-design.readthedocs.org/en/latest/
