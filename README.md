@@ -26,6 +26,8 @@
  1. [理解 HTTP 幂等性][23] 讲得很清楚，推荐
  2. [浅析远程过程调用 RPC][24] 告诉你什么是 RPC
  3. [httpstatuses][25] 一眼看完所有常用的 HTTP 状态码，还可以看详细含义
+ 3. [List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) From Wikipedia
+ 3. [HTTP Status Codes](https://msdn.microsoft.com/en-us/library/windows/desktop/aa384325(v=vs.85).aspx) From MSDN Microsoft
  4. [json-api][26] 对 API 应该如何利用好 JSON 的一些建议
  5. [介绍 JSON][27] 无论如何都应该读一遍
  6. [decision-graph.svg][28] 一张大图展示整个 REST API 的验证过程，及各种状态码出现的时机
