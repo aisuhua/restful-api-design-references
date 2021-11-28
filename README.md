@@ -74,6 +74,7 @@
 
 #### 其他 ####
  1. [MarkdownPad2][48] Windows 下使用 Markdown 语法编写文档。等习惯了它的语法，可以直接使用任何一款文本编辑器直接写了
+ 2. [HTTP API Development Tools](https://github.com/yosriady/api-development-tools)
 
 
   [1]: http://codeplanet.io/principles-good-restful-api-design/
